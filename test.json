@@ -21,7 +21,7 @@
             "#ddf9cf", "ddf9cf"
         ],
         "TEXT_LINK": [
-            "#c8fed1", #c8fed1"
+            "#c8fed1", "#c8fed1"
         ],
         "INTERACTIVE_NORMAL": [
             "#dbfca6", "#dbfca6"
@@ -30,7 +30,7 @@
             "#a9f900", "#a9f900"
         ],
         "INTERACTIVE_MUTED": [
-            "#364d2e", #364d2e
+            "#364d2e", "#364d2e"
         ],
         "BACKGROUND_PRIMARY": [
             "#223600", "cfebc1"
