@@ -1,10 +1,10 @@
 {
-  "name": "puhbuAMOLED",
-  "description": "An AMOLED theme with colors I like",
-  "version": "0.1",
+  "name": "puhbuAMOLEDTEST",
+  "description": "An AMOLED theme with colors I like, but this time with Themes+",
+  "version": "0.1b",
   "authors": [
     {
-      "name": "puhbu :3",
+      "name": "puhbu",
       "id": "763525801945071637"
     }
   ],
