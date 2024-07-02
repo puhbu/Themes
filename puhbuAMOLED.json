@@ -1,10 +1,10 @@
 {
   "name": "puhbuAMOLED",
-  "description": "An AMOLED theme with colors I like",
-  "version": "0.1",
+  "description": "puhrple AMOLED, Themes+ support",
+  "version": "1",
   "authors": [
     {
-      "name": "puhbu :3",
+      "name": "puhbu",
       "id": "763525801945071637"
     }
   ],
@@ -346,6 +346,11 @@
   },
   "background": {
     "color": "#000000"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#F4DBFF"
   },
   "spec": 2
 }
