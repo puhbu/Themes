@@ -350,7 +350,7 @@
   "plus": {
     "version": "0",
     "iconPack": "rosiecord-plumpy",
-    "mentionLineColor": "#25162d",
+    "mentionLineColor": "#25162d"
   },
   "spec": 2
 }
