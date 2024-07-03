@@ -1,7 +1,7 @@
 {
   "name": "puhbuAMOLEDTEST",
-  "description": "puhrple AMOLEDTEST, Themes+ support; Midnight Theme recommended; V1.21b",
-  "version": "1.11b",
+  "description": "puhrple AMOLEDTEST, Themes+ support; Midnight Theme recommended; V1.2b",
+  "version": "1.2b",
   "authors": [
     {
       "name": "puhbu",
@@ -258,7 +258,7 @@
     "PLUM_22": "#1e1a25",
     "PLUM_24": "#110B15",
     "PLUM_25": "#100c19",
-    "PLUM_3": "#e1d4ff",
+    "PLUM_3": "#f3edff",
     "PLUM_4": "#e5dcdc",
     "PLUM_6": "#cec6c6",
     "PLUM_9": "#a59090",
