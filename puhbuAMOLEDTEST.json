@@ -1,7 +1,7 @@
 {
   "name": "puhbuAMOLEDTEST",
   "description": "puhrple AMOLEDTEST, Themes+ support; Midnight Theme recommended; V1.1b",
-  "version": "1.1b",
+  "version": "1.11b",
   "authors": [
     {
       "name": "puhbu",
@@ -220,7 +220,7 @@
     "BLUE_400": "#9e74c4",
     "BLUE_430": "#9a74bf",
     "BLUE_460": "#9670b7",
-    "BLUE_500": "#8d69ad",
+    "BLUE_500": "#e1d4ff",
     "BLUE_530": "#8563a4",
     "BLUE_560": "#7d5f9c",
     "BLUE_600": "#785b95",
