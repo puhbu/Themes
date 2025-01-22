@@ -67,7 +67,7 @@
           "#251e2b"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#000000"
+          "#110D15"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
           "#321940"
@@ -211,7 +211,7 @@
           "#000000"
       ],
       "PANEL_BG": [
-        "#110D15"
+        "#000000"
       ]
   },
   "rawColors": {
@@ -256,7 +256,7 @@
       "PLUM_17": "#131318",
       "PLUM_18": "#000000",
       "PLUM_19": "#ffffff",
-      "PLUM_20": "#110D15",
+      "PLUM_20": "#000000",
       "PLUM_21": "#1F1818",
       "PLUM_22": "#271D2B",
       "PLUM_24": "#140F0F",
