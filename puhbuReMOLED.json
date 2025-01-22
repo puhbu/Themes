@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
   "description": "maybe the next puhbuAMOLED, HEAVILY in development, i still suck at making themes; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
-  "version": "0.4",
+  "version": "0.5",
   "authors": [
       {
           "name": "puhbu",
@@ -109,10 +109,10 @@
           "#000000"
       ],
       "CARD_SECONDARY_BG": [
-          "#383143"
+          "#1A131F"
       ],
       "CARD_PRIMARY_BG": [
-          "#383143"
+          "#1A131F"
       ],
       "CHANNEL_ICON": [
           "#b1a6c1" 
@@ -190,7 +190,7 @@
           "#CBC3E3"
       ],
       "TEXT_MUTED": [
-          "#b1a6c1"
+          "#766c80"
       ],
       "TEXT_NORMAL": [
           "#e6d8fb"
@@ -199,7 +199,7 @@
           "#e6d8fb"
       ],
       "TEXT_SECONDARY": [
-          "#b1a6c1"
+          "#766c80"
       ],
       "KEYBOARD": [
           "#000000"
@@ -241,8 +241,8 @@
       "BRAND_660": "#281839",
       "BRAND_700": "#231532",
       "BRAND_730": "#ffffff",
-      "PLUM_1": "#b1a6c1",
-      "PLUM_10": "#b1a6c1",
+      "PLUM_1": "#766c80",
+      "PLUM_10": "#766c80",
       "PLUM_11": "#807070",
       "PLUM_13": "#23172d",
       "PLUM_16": "#23172d",
@@ -257,7 +257,7 @@
       "PLUM_3": "#e6d8fb",
       "PLUM_4": "#e5dcdc",
       "PLUM_6": "#e6d8fb",
-      "PLUM_9": "#b1a6c1",
+      "PLUM_9": "#766c80",
       "PRIMARY_100": "#FFFFFF",
       "PRIMARY_200": "#ffffff",
       "PRIMARY_300": "#5f3387",
