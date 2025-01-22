@@ -16,7 +16,7 @@
           "#000000"
       ],
       "BACKGROUND_ACCENT": [
-          "#1e072b"
+          "#251237"
       ],
       "BACKGROUND_FLOATING": [
           "#140c1b"
@@ -46,13 +46,13 @@
           "#000000"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-          "#1e072b"
+          "#251237"
       ],
       "CHANNELS_DEFAULT": [
           "#9c9c9c"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-          "#1e072b"
+          "#251237"
       ],
       "BACKGROUND_NESTED_FLOATING": [
           "#000000"
@@ -64,25 +64,25 @@
           "#251e2b"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#1e072b"
+          "#251237"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#3D2C37"
+          "#251237"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#3D2C37"
+          "#1c0c24"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#fb00bc"
+          "#341b4a"
       ],
       "BACKGROUND_PRIMARY": [
-          "#271927"
+          "#000000"
       ],
       "BACKGROUND_SECONDARY": [
-          "#18141A"
+          "#14091a"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#271927"
+          "#14091a"
       ],
       "BACKGROUND_TERTIARY": [
           "#0f0b0f"
