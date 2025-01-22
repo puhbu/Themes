@@ -12,6 +12,9 @@
       "ANDROID_RIPPLE": [
           "#72577D"
       ],
+      "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+        "#72577D66"
+      ],
       "CHAT_BACKGROUND": [
           "#000000"
       ],
