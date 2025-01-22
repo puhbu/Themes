@@ -19,7 +19,7 @@
           "#251237"
       ],
       "BACKGROUND_FLOATING": [
-          "#14091a"
+          "#000000"
       ],
       "BACKGROUND_MENTIONED": [
           "#1d1529"
@@ -85,7 +85,7 @@
           "#000000"
       ],
       "BACKGROUND_TERTIARY": [
-          "#321940"
+          "#23172d"
       ],
       "BG_BASE_PRIMARY": [
           "#000000"
@@ -103,10 +103,10 @@
           "#000000"
       ],
       "BORDER_FAINT": [
-          "#251237"
+          "#23172d"
       ],
       "BORDER_STRONG": [
-          "#251237"
+          "#23172d"
       ],
       "BORDER_SUBTLE": [
           "#000000"
@@ -127,19 +127,19 @@
           "#c5aad4"
       ],
       "HEADER_SECONDARY": [
-          "#4e008c"
+          "#541b96"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#251237"
+          "#c5aad4"
       ],
       "INTERACTIVE_HOVER": [
           "#DEDCDE"
       ],
       "INTERACTIVE_MUTED": [
-          "#1d1325"
+          "#19121c"
       ],
       "INTERACTIVE_NORMAL": [
-          "#2b2430"
+          "#5c4a67"
       ],
       "MENTION_BACKGROUND": [
           "#ff63635e"
@@ -148,10 +148,10 @@
           "#5e476e"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-          "#251237"
+          "#1a1123"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-          "#251237"
+          "#1a1123"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [
           "#000000"
@@ -160,10 +160,10 @@
           "#5e476e"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-          "#251237"
+          "#541b96"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-          "#251237"
+          "#c5aad4"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
           "#251237"
@@ -172,13 +172,13 @@
           "#4D4141"
       ],
       "STATUS_DANGER": [
-          "#5e476e"
+          "#40202d"
       ],
       "STATUS_DANGER_BACKGROUND": [
-          "#f44444"
+          "#40202d"
       ],
       "STATUS_DANGER_TEXT": [
-          "#FFFFFF"
+          "#40202d"
       ],
       "POLLS_NORMAL_FILL_HOVER": [
           "#1c181f"
@@ -187,28 +187,28 @@
           "#17131a"
       ],
       "POLLS_VICTOR_FILL": [
-          "#E68EB7"
+          "#2e1144"
       ],
       "TEXT_LINK": [
-          "#ffbaf2"
+          "#CBC3E3"
       ],
       "TEXT_MUTED": [
-          "#E792C1"
+          "#5a4f63"
       ],
       "TEXT_NORMAL": [
-          "#FBFBFB"
+          "#c5aad4"
       ],
       "TEXT_PRIMARY": [
-          "#fbfbfb"
+          "#c5aad4"
       ],
       "TEXT_SECONDARY": [
-          "#e7c6c6"
+          "#5a4f63"
       ],
       "BG_MOD_FAINT": [
-          "#4A3441"
+          "#5a4f63"
       ],
       "KEYBOARD": [
-          "#181419"
+          "#000000"
       ]
   },
   "rawColors": {
