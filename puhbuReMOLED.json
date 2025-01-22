@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
   "description": "maybe the next puhbuAMOLED",
-  "version": "0.2Alpha",
+  "version": "0.3",
   "authors": [
       {
           "name": "puhbu",
@@ -279,7 +279,7 @@
       "PRIMARY_645": "#000000",
       "PRIMARY_660": "#18141a",
       "PRIMARY_700": "#18141a",
-      "PRIMARY_730": "#bf8ab0",
+      "PRIMARY_730": "#18141a",
       "PRIMARY_800": "#181419",
       "GREEN_260": "#582F7D",
       "GREEN_300": "#542D78",
