@@ -64,28 +64,28 @@
           "#251e2b"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#251237"
+          "#000000"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#251237"
+          "#321940"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
           "#1c0c24"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#341b4a"
+          "#000000"
       ],
       "BACKGROUND_PRIMARY": [
           "#000000"
       ],
       "BACKGROUND_SECONDARY": [
-          "#14091a"
+          "#000000"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#14091a"
+          "#000000"
       ],
       "BACKGROUND_TERTIARY": [
-          "#0f0b0f"
+          "#321940"
       ],
       "BG_BASE_PRIMARY": [
           "#000000"
@@ -94,10 +94,10 @@
           "#000000"
       ],
       "BG_BASE_SECONDARY": [
-          "#251e2b"
+          "#000000"
       ],
       "BG_BASE_TERTIARY": [
-          "#251e2b"
+          "#000000"
       ],
       "HOME_BACKGROUND": [
           "#000000"
@@ -124,7 +124,7 @@
           "#251237"
       ],
       "HEADER_PRIMARY": [
-          "#5e476e"
+          "#c5aad4"
       ],
       "HEADER_SECONDARY": [
           "#4e008c"
