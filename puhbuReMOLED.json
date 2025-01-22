@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
   "description": "not puhbuAMOLED, HEAVILY in development; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
-  "version": "0.8.3",
+  "version": "0.9",
   "authors": [
       {
           "name": "puhbu",
@@ -70,7 +70,7 @@
           "#251e2b"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#110D15"
+          "#21122b"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
           "#321940"
