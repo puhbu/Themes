@@ -370,7 +370,7 @@
       "version": "0",
       "iconPack": "rosiecord-plumpy",
       "mentionLineColor": "#E692C4",
-      "customOverlays": true,
+      "customOverlays": true
   },
   "spec": 2
 }
