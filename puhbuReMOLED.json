@@ -19,7 +19,7 @@
           "#251237"
       ],
       "BACKGROUND_FLOATING": [
-          "#140c1b"
+          "#14091a"
       ],
       "BACKGROUND_MENTIONED": [
           "#1d1529"
@@ -40,7 +40,7 @@
           "#000"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#281a30"
+          "#251237"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
           "#000000"
@@ -88,91 +88,91 @@
           "#0f0b0f"
       ],
       "BG_BASE_PRIMARY": [
-          "#0D0C0E"
+          "#000000"
       ],
       "BG_BACKDROP": [
-          "#000000b2"
+          "#000000"
       ],
       "BG_BASE_SECONDARY": [
-          "#080608"
+          "#251e2b"
       ],
       "BG_BASE_TERTIARY": [
-          "#0F0B0F"
+          "#251e2b"
       ],
       "HOME_BACKGROUND": [
-          "#221b1e"
+          "#000000"
       ],
       "BORDER_FAINT": [
-          "#4F3B47"
+          "#251237"
       ],
       "BORDER_STRONG": [
-          "#7C6C6C"
+          "#251237"
       ],
       "BORDER_SUBTLE": [
-          "#7C6C6C"
+          "#000000"
       ],
       "CARD_SECONDARY_BG": [
-          "#18141A"
+          "#000000"
       ],
       "CARD_PRIMARY_BG": [
-          "#0D0C0E"
+          "#000000"
       ],
       "CHANNEL_ICON": [
-          "#e7c6db"
+          "#151119" 
       ],
       "EMBED_BACKGROUND": [
-          "#4d3939"
+          "#251237"
       ],
       "HEADER_PRIMARY": [
-          "#E792C5"
+          "#5e476e"
       ],
       "HEADER_SECONDARY": [
-          "#FFEFFF"
+          "#4e008c"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#FFFFFF"
+          "#251237"
       ],
       "INTERACTIVE_HOVER": [
           "#DEDCDE"
       ],
       "INTERACTIVE_MUTED": [
-          "#BF8AB0"
+          "#1d1325"
       ],
       "INTERACTIVE_NORMAL": [
-          "#fdfdfd"
+          "#2b2430"
       ],
       "MENTION_BACKGROUND": [
           "#ff63635e"
       ],
       "MENTION_FOREGROUND": [
-          "#FCD4d4"
+          "#5e476e"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-          "#1b1616"
+          "#251237"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-          "#2b232f"
+          "#251237"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [
-          "#39343F"
+          "#000000"
       ],
       "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-          "#f48fb1"
+          "#5e476e"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-          "#A39595"
+          "#251237"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-          "#F4F3F3"
+          "#251237"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-          "#18141a"
+          "#251237"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
           "#4D4141"
       ],
       "STATUS_DANGER": [
-          "#f48fb1"
+          "#5e476e"
       ],
       "STATUS_DANGER_BACKGROUND": [
           "#f44444"
