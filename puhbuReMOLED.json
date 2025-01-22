@@ -27,6 +27,9 @@
       "BACKGROUND_MENTIONED": [
           "#1d1529"
       ],
+      "FORUM_POST_TAG_BACKGROUND": [
+          "#3b2254"
+      ],
       "BACKGROUND_MENTIONED_HOVER": [
           "#2b1c33"
       ],
