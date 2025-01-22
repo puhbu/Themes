@@ -193,7 +193,7 @@
           "#CBC3E3"
       ],
       "TEXT_MUTED": [
-          "#5a4f63"
+          "#b1a6c1"
       ],
       "TEXT_NORMAL": [
           "#e6d8fb"
@@ -202,7 +202,7 @@
           "#e6d8fb"
       ],
       "TEXT_SECONDARY": [
-          "#5a4f63"
+          "#b1a6c1"
       ],
       "BG_MOD_FAINT": [
           "#131310"
@@ -370,9 +370,7 @@
   },
   "plus": {
       "version": "0",
-      "iconPack": "rosiecord-plumpy",
-      "mentionLineColor": "#E692C4",
-      "customOverlays": true
+      "iconPack": "rosiecord-plumpy"
   },
   "spec": 2
 }
