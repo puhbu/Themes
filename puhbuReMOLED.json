@@ -124,13 +124,13 @@
           "#131318"
       ],
       "HEADER_PRIMARY": [
-          "#8F68AD"
+          "#e6d8fb"
       ],
       "HEADER_SECONDARY": [
           "#ffffff"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#8F68AD"
+          "#e6d8fb"
       ],
       "INTERACTIVE_HOVER": [
           "#DEDCDE"
@@ -139,7 +139,7 @@
           "#542D78"
       ],
       "INTERACTIVE_NORMAL": [
-          "#8F68AD"
+          "#e6d8fb"
       ],
       "MENTION_BACKGROUND": [
           "#ff63635e"
@@ -163,7 +163,7 @@
           "#ffffff"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-          "#8F68AD"
+          "#e6d8fb"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
           "#131318"
@@ -196,10 +196,10 @@
           "#5a4f63"
       ],
       "TEXT_NORMAL": [
-          "#8F68AD"
+          "#e6d8fb"
       ],
       "TEXT_PRIMARY": [
-          "#8F68AD"
+          "#e6d8fb"
       ],
       "TEXT_SECONDARY": [
           "#5a4f63"
@@ -252,7 +252,6 @@
       "PLUM_10": "#5a4f63",
       "PLUM_11": "#807070",
       "PLUM_13": "#23172d",
-      "PLUM_15": "#B9A2D0",
       "PLUM_16": "#23172d",
       "PLUM_17": "#131318",
       "PLUM_18": "#2e2439",
@@ -262,9 +261,9 @@
       "PLUM_22": "#131318",
       "PLUM_24": "#140F0F",
       "PLUM_25": "#100C0C",
-      "PLUM_3": "#8F68AD",
+      "PLUM_3": "#e6d8fb",
       "PLUM_4": "#e5dcdc",
-      "PLUM_6": "#8F68AD",
+      "PLUM_6": "#e6d8fb",
       "PLUM_9": "#ffffff",
       "PRIMARY_100": "#FFFFFF",
       "PRIMARY_200": "#ffffff",
