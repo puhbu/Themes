@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
-  "description": "not puhbuAMOLED, HEAVILY in development; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
-  "version": "0.9",
+  "description": "0.9a; not puhbuAMOLED, HEAVILY in development; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
+  "version": "0.9a",
   "authors": [
       {
           "name": "puhbu",
@@ -299,9 +299,9 @@
       "GREEN_630": "#2e1b41",
       "GREEN_660": "#281839",
       "GREEN_700": "#231532",
-      "GUILD_BOOSTING_PINK": "#582F7D",
-      "GUILD_BOOSTING_PURPLE": "#542D78",
-      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#522c74",
+      "GUILD_BOOSTING_PINK": "#81077F",
+      "GUILD_BOOSTING_PURPLE": "#81077F",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#81077F",
       "RED_260": "#582F7D",
       "RED_300": "#542D78",
       "RED_330": "#522c74",
