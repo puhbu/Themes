@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
   "description": "maybe the next puhbuAMOLED, HEAVILY in development, i still suck at making themes; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
-  "version": "0.5",
+  "version": "0.6",
   "authors": [
       {
           "name": "puhbu",
@@ -145,10 +145,10 @@
           "#5e476e"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-          "#1a1123"
+          "624D74"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-          "#1a1123"
+          "624D74"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [
           "#000000"
@@ -169,13 +169,13 @@
           "#4D4141"
       ],
       "STATUS_DANGER": [
-          "#40202d"
+          "#C8385A"
       ],
       "STATUS_DANGER_BACKGROUND": [
-          "#40202d"
+          "#C8385A"
       ],
       "STATUS_DANGER_TEXT": [
-          "#40202d"
+          "#C8385A"
       ],
       "POLLS_NORMAL_FILL_HOVER": [
           "#1c181f"
@@ -212,9 +212,9 @@
       "BLUE_260": "#582F7D",
       "BLUE_300": "#542D78",
       "BLUE_330": "#522c74",
-      "BLUE_345": "#40202d",
+      "BLUE_345": "#C8385A",
       "BLUE_360": "#492869",
-      "BLUE_400": "#452663",
+      "BLUE_400": "#624D74",
       "BLUE_430": "#442660",
       "BLUE_460": "#3f2359",
       "BLUE_500": "#3b2254",
@@ -228,9 +228,9 @@
       "BRAND_260": "#582F7D",
       "BRAND_300": "#542D78",
       "BRAND_330": "#522c74",
-      "BRAND_345": "#40202d",
+      "BRAND_345": "#C8385A",
       "BRAND_360": "#492869",
-      "BRAND_400": "#452663",
+      "BRAND_400": "#624D74",
       "BRAND_430": "#442660",
       "BRAND_460": "#3f2359",
       "BRAND_500": "#3b2254",
@@ -277,9 +277,9 @@
       "GREEN_260": "#582F7D",
       "GREEN_300": "#542D78",
       "GREEN_330": "#522c74",
-      "GREEN_345": "#40202d",
+      "GREEN_345": "#C8385A",
       "GREEN_360": "#492869",
-      "GREEN_400": "#452663",
+      "GREEN_400": "#624D74",
       "GREEN_430": "#442660",
       "GREEN_460": "#3f2359",
       "GREEN_500": "#3b2254",
@@ -295,9 +295,9 @@
       "RED_260": "#582F7D",
       "RED_300": "#542D78",
       "RED_330": "#522c74",
-      "RED_345": "#40202d",
+      "RED_345": "#C8385A",
       "RED_360": "#492869",
-      "RED_400": "#452663",
+      "RED_400": "#624D74",
       "RED_430": "#442660",
       "RED_460": "#3f2359",
       "RED_500": "#3b2254",
@@ -311,9 +311,9 @@
       "ORANGE_260": "#582F7D",
       "ORANGE_300": "#542D78",
       "ORANGE_330": "#522c74",
-      "ORANGE_345": "#40202d",
+      "ORANGE_345": "#C8385A",
       "ORANGE_360": "#492869",
-      "ORANGE_400": "#452663",
+      "ORANGE_400": "#624D74",
       "ORANGE_430": "#442660",
       "ORANGE_460": "#3f2359",
       "ORANGE_500": "#3b2254",
@@ -326,9 +326,9 @@
       "YELLOW_260": "#582F7D",
       "YELLOW_300": "#542D78",
       "YELLOW_330": "#522c74",
-      "YELLOW_345": "#40202d",
+      "YELLOW_345": "#C8385A",
       "YELLOW_360": "#492869",
-      "YELLOW_400": "#452663",
+      "YELLOW_400": "#624D74",
       "YELLOW_430": "#442660",
       "YELLOW_460": "#3f2359",
       "YELLOW_500": "#3b2254",
