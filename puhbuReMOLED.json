@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
   "description": "not puhbuAMOLED, HEAVILY in development; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "authors": [
       {
           "name": "puhbu",
@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
       "ANDROID_RIPPLE": [
-          "#130726"
+          "#29103b"
       ],
       "CONTEXT_MENU_BACKDROP_BACKGROUND": [
         "#72577D66"
@@ -142,7 +142,7 @@
           "#DEDCDE"
       ],
       "INTERACTIVE_MUTED": [
-          "#542D78"
+          "#000000"
       ],
       "INTERACTIVE_NORMAL": [
           "#e6d8fb"
