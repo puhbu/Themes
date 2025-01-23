@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLED",
-  "description": "0.9a; not puhbuAMOLED, HEAVILY in development; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
-  "version": "0.9a",
+  "description": "0.92a; not puhbuAMOLED, HEAVILY in development; Themes+ Support, no MIDNIGHT MODE required, woohoo!",
+  "version": "0.92a",
   "authors": [
       {
           "name": "puhbu",
@@ -142,7 +142,7 @@
           "#DEDCDE"
       ],
       "INTERACTIVE_MUTED": [
-          "#000000"
+          "#766c80"
       ],
       "INTERACTIVE_NORMAL": [
           "#e6d8fb"
@@ -242,7 +242,7 @@
       "BRAND_400": "#624D74",
       "BRAND_430": "#442660",
       "BRAND_460": "#3f2359",
-      "BRAND_500": "#3b2254",
+      "BRAND_500": "#70567e",
       "BRAND_530": "#392151",
       "BRAND_560": "#e6d8fb",
       "BRAND_600": "#321e48",
@@ -308,7 +308,7 @@
       "RED_345": "#C8385A",
       "RED_360": "#492869",
       "RED_400": "#cf6387",
-      "RED_430": "#442660",
+      "RED_430": "#C8385A",
       "RED_460": "#3f2359",
       "RED_500": "#3b2254",
       "RED_530": "#392151",
