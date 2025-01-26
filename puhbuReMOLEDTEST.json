@@ -7,11 +7,11 @@
           "name": "puhbu",
           "id": "763525801945071637"
       },
-    "plus": {
+  ],
+	"plus": {
 		"version": 0,
 		"iconpack": "rosiecord-plumpy"
 	},
-  ],
   "semanticColors": {
       "ANDROID_RIPPLE": [
           "#29103b"
