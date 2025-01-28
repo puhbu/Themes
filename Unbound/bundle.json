@@ -6,7 +6,9 @@
       },
 
       "CONTEXT_MENU_BACKDROP_BACKGROUND": {
-        "#72577D66"
+        "type": "color",
+        "value":"#72577D",
+        "opacity": 0.3
       },
 
       "CHAT_BACKGROUND": {
