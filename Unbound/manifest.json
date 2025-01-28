@@ -2,7 +2,7 @@
     "name": "puhbuReMoled",
     "id": "puhbu",
     "type": "theme",
-    "main": "https://raw.githubusercontent.com/puhbu/Themes/refs/heads/main/Unbound/bundle.json",
+    "main": "bundle.json",
     "description": "puhbuReMoled",
     "version": "1.0.0",
     "authors": [
