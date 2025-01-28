@@ -1,4 +1,4 @@
-"semantic" {
+{ "semantic": {
       "ANDROID_RIPPLE": [
           "#29103b"
       ],
@@ -207,7 +207,7 @@
         "#000000"
       ]
   },
-  "rawColors": {
+  "raw": {
       "BLUE_260": "#582F7D",
       "BLUE_300": "#542D78",
       "BLUE_330": "#522c74",
@@ -341,3 +341,4 @@
       "WHITE_500": "#FEFFFF",
       "WHITE_630": "#776767"
   },
+}
