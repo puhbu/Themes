@@ -1,6 +1,6 @@
 {
   "name": "puhbuReMOLEDTEST",
-  "description": "rahhh! i hate women!!",
+  "description": "rahhh! i (dont) hate women!!",
   "version": "0.9a",
   "authors": [
       {
@@ -8,6 +8,11 @@
           "id": "763525801945071637"
       }
   ],
+          "plus": {
+          "version": "0",
+          "iconpack": "rosiecord-plumpy",
+          "mentionLineColor": "#F4DBFF"
+  },
   "semanticColors": {
       "ANDROID_RIPPLE": [
           "#29103b"
@@ -370,10 +375,6 @@
         "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Inter/Inter-NormalItalic.ttf?raw=1",
         "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Inter/Inter-Semibold.ttf?raw=1",
         "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Inter/Inter-Semibold.ttf?raw=1"
-  },
-  "plus": {
-      "version": "0",
-      "iconPack": "rosiecord-plumpy"
   },
   "spec": 2
 }
