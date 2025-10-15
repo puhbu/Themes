@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLEDTEST",
-  "description": "rahhh! i (dont) hate women!!",
-  "version": "0.9a",
+  "description": "hello chat",
+  "version": "0.94a",
   "authors": [
       {
           "name": "puhbu",
@@ -24,7 +24,7 @@
           "#000000"
       ],
       "BACKGROUND_ACCENT": [
-          "#131318"
+          "#2e1b41"
       ],
       "BACKGROUND_FLOATING": [
           "#000000"
@@ -353,7 +353,7 @@
       "YELLOW_630": "#2e1b41",
       "YELLOW_660": "#281839",
       "YELLOW_700": "#231532",
-      "WHITE_500": "#FEFFFF",
+      "WHITE_500": "#FFFFFF",
       "WHITE_630": "#776767"
   },
   "fonts": {
